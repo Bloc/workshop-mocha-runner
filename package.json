@@ -1,6 +1,0 @@
-{
-  "name": "angular-course",
-  "dependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.3"
-}
